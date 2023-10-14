@@ -7,7 +7,7 @@ user_text = input("Write your text: ")
 # list of vowels
 vowels = "AEIOUaeiou"
 
-# Initialize an empty string to store the vowels
+#
 user_vowels = []
 
 #look text by character
