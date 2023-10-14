@@ -1,0 +1,5 @@
+print("Hello There, I am simple calculator. Write me two numbers and I will add them!")
+x = float(input("First number:"))
+y = float(input("Second number:"))
+print("Let me add them up")
+print((x + y))
